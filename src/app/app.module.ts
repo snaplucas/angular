@@ -18,7 +18,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     HeroDetailComponent,
     MessagesComponent,
     DashboardComponent
-    ],
+  ],
   imports: [
     BrowserModule,
     FormsModule,
